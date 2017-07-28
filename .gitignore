@@ -1,0 +1,13 @@
+*.swp
+*.swo
+*.bak
+sftp-config.json
+.remote-sync.json
+nbproject
+.ftpconfig
+tags
+**/node_modules
+package.json
+.htmlhintrc
+.stylelintrc
+/.idea
