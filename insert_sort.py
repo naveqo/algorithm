@@ -1,3 +1,6 @@
+# coding: utf-8
+
+
 def insert_sort(arr):
     for i in range(1, len(arr)):
         j = i - 1
